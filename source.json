@@ -16,6 +16,7 @@
     "githubRepos":[
         "chemicalcrux/vrc-armature-reparenter",
         "chemicalcrux/vrc-physbone-calibrator",
-        "chemicalcrux/vrc-animator-dynamics"
+        "chemicalcrux/vrc-animator-dynamics",
+        "chemicalcrux/vrc-procedural-controller"
     ]
 }
