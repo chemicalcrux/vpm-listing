@@ -17,6 +17,7 @@
         "chemicalcrux/vrc-armature-reparenter",
         "chemicalcrux/vrc-physbone-calibrator",
         "chemicalcrux/vrc-animator-dynamics",
-        "chemicalcrux/vrc-procedural-controller"
+        "chemicalcrux/vrc-procedural-controller",
+        "chemicalcrux/vrc-crux-core"
     ]
 }
