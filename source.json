@@ -18,6 +18,7 @@
         "chemicalcrux/vrc-physbone-calibrator",
         "chemicalcrux/vrc-animator-dynamics",
         "chemicalcrux/vrc-procedural-controller",
-        "chemicalcrux/vrc-crux-core"
+        "chemicalcrux/vrc-crux-core",
+        "chemicalcrux/vrc-stencil-viewer"
     ]
 }
