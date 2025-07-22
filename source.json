@@ -14,7 +14,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "chemicalcrux/vrc-armature-reparenter",
+        "chemicalcrux/vrc-bone-link",
         "chemicalcrux/vrc-physbone-calibrator",
         "chemicalcrux/vrc-animator-dynamics",
         "chemicalcrux/vrc-procedural-controller",
